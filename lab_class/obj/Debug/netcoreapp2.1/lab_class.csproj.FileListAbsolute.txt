@@ -1,0 +1,11 @@
+C:\Users\ИС\source\repos\lab_class\bin\Debug\netcoreapp2.1\lab_class.deps.json
+C:\Users\ИС\source\repos\lab_class\bin\Debug\netcoreapp2.1\lab_class.runtimeconfig.json
+C:\Users\ИС\source\repos\lab_class\bin\Debug\netcoreapp2.1\lab_class.runtimeconfig.dev.json
+C:\Users\ИС\source\repos\lab_class\bin\Debug\netcoreapp2.1\lab_class.dll
+C:\Users\ИС\source\repos\lab_class\bin\Debug\netcoreapp2.1\lab_class.pdb
+C:\Users\ИС\source\repos\lab_class\obj\Debug\netcoreapp2.1\lab_class.csprojAssemblyReference.cache
+C:\Users\ИС\source\repos\lab_class\obj\Debug\netcoreapp2.1\lab_class.csproj.CoreCompileInputs.cache
+C:\Users\ИС\source\repos\lab_class\obj\Debug\netcoreapp2.1\lab_class.AssemblyInfoInputs.cache
+C:\Users\ИС\source\repos\lab_class\obj\Debug\netcoreapp2.1\lab_class.AssemblyInfo.cs
+C:\Users\ИС\source\repos\lab_class\obj\Debug\netcoreapp2.1\lab_class.dll
+C:\Users\ИС\source\repos\lab_class\obj\Debug\netcoreapp2.1\lab_class.pdb
